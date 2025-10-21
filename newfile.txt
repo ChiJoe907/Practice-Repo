@@ -3,4 +3,4 @@ Were going to make a new file to test merge commits now!
 This is a remote commit on line 3!
 This is a local commit on line 4!
 
-Making commits on the new branch!
+Making commits on the new branch!this is new text

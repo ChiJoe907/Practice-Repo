@@ -1,2 +1,3 @@
 Were going to make a new file to test merge commits now!
 
+This is a remote commit on line 3!
